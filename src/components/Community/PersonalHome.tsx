@@ -21,7 +21,7 @@ const PersonalHome: React.FC = () => {
 				height="34px"
 				borderRadius="4px 4px 0px 0px"
 				fontWeight={600}
-				bgImage="url(/images/redditPersonalHome.png)"
+				bgImage="url(/Images/redditPersonalHome.png)"
 				backgroundSize="cover"
 			></Flex>
 			<Flex direction="column" p="12px">

@@ -64,7 +64,7 @@ const Recommendations: React.FC = () => {
 				bgImage="url(/Images/recCommsArt.png)"
 				backgroundSize="cover"
 				bgGradient="linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
-                url('images/recCommsArt.png')"
+                url('Images/recCommsArt.png')"
 			>
 				Top Communities
 			</Flex>
